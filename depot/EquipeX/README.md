@@ -7,7 +7,7 @@ _(Le titre doit être court et descriptif)_
 - Installation d'un service Apache + MariaDB + PHP avec docker
 
 ## Membres de l'équipe
-_(**Format : ** Demi-groupe - NOM Prénom)_
+_(**Format :** Demi-groupe - NOM Prénom)_
 
 - E2 - JIMÉNEZ Juanlu
 - E2 - COLIN Jean-Yves
