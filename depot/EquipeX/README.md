@@ -14,10 +14,12 @@ _(**Format :** Demi-groupe - NOM Prénom)_
 - E2 - DUFLO Hugues
 
 ## Liens vers le site web du projet
+_(Le liens doit être https://<votre-utilisateur-github>.github.io/docker-sae203/)_
 
-[lampDocker](https://juanluck.github.io/lampDocker/)
+[docker-sae203](https://juanluck.github.io/lampDocker/)
 
 ## Liens vers le dépôt github du projet
+_(Le liens doit être https://github.com/<votre-utilisateur-github>/docker-sae203/)_
 
-[lampDocker](https://github.com/juanluck/lampDocker)
+[docker-sae203](https://github.com/juanluck/lampDocker)
 
