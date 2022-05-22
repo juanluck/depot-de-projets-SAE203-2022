@@ -15,5 +15,6 @@ _Juegos est une plateforme Java en ligne sur laquelle des joueurs peuvent jouer 
 
 ## Liens du projet
 - [Site web](https://hugman76.github.io/docker-sae203/)
-- [Dépôt GitHub](https://github.com/Hugman76/docker-sae203)
+- [Dépôt](https://github.com/Hugman76/docker-sae203)
+- [Table de projet](https://github.com/users/Hugman76/projects/1/views/1)
 
