@@ -1,6 +1,9 @@
 # Projet SAE 2.03 Equipe 13
 
-## Creation site de streaming : Film, Anime, Musique
+## Création d'un site de vidéos à la demande : Film, Anime, Musique
+
+- Installation d'un service nginx
+- Automatisation de création du site par des programmes java
 
 ## Membres de l'équipe
 
