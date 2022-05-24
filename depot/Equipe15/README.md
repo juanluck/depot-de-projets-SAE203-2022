@@ -2,7 +2,7 @@
 _Juegos est une plateforme Java en ligne sur laquelle des joueurs peuvent jouer à des jeux de plateau classiques !_
 
 ## Travaux effectués
-- Installation d'un service Apache + MariaDB + Java avec Docker
+- Installation d'un service de jeux en ligne avec Docker
 - Développement d'un client et d'un serveur Java communicatifs
   - Développement d'unités autonomes (utilisation de `Thread`)
   - Développement d'une interface graphique pour le client
