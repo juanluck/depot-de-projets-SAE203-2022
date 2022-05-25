@@ -5,7 +5,6 @@
 - Installation d'un service de vidéo à la demande avec nginx
 
 ## Membres de l'équipe
-_(**Format :** Demi-groupe - NOM Prénom)_
 
 - D1 - BELMOKHTAR Ilian
 - D1 - DEMIR Ozan
