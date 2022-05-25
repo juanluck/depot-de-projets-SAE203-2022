@@ -13,8 +13,8 @@ _Discord.java, une messagerie très simpliste pour apprendre à se servir d'un D
 
 ## Liens vers le site web du projet
 
-[Lien du repo contenant le code source](https://erreiip.github.io/docker-sae203/)
+[Lien de la présentation](https://erreiip.github.io/docker-sae203/)
 
 ## Liens vers le dépôt github du projet
 
-[Lien de la présentation](https://github.com/Erreiip/docker-sae203.git)
+[Lien du repo contenant le code source](https://github.com/Erreiip/docker-sae203.git)
