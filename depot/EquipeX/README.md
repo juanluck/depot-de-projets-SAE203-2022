@@ -1,25 +1,22 @@
-# Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe)_
+# Projet SAE 2.03 Equipe 3
 
-## Titre du projet
-_(Le titre doit être court et descriptif)_
-
-- Installation d'un service Apache + MariaDB + PHP avec docker
+## Projet KuiPer :
+- Installation d'un service de strealing vidéo: Apache + MariaDB + PHP avec docker
 
 ## Membres de l'équipe
-_(**Format :** Demi-groupe - NOM Prénom)_
 
-- E2 - JIMÉNEZ Juanlu
-- E2 - COLIN Jean-Yves
-- E2 - DUFLO Hugues
+- C2 - ODIEVRE Nathan
+- C2 - KOTOWICZ Alexandre
+- C1 - DUTERTRE Victor
+- C1 - BOUVET Eliott
 
 ## Liens vers le site web du projet
 _(Le liens doit être ```https://<votre-utilisateur-github>.github.io/docker-sae203/```)_
 
-[docker-sae203](https://juanluck.github.io/lampDocker/)
+[docker-sae203](https://vorteks1.github.io/SAE_2.03/)
 
 ## Liens vers le dépôt github du projet
 _(Le liens doit être ```https://github.com/<votre-utilisateur-github>/docker-sae203/```)_
 
-[docker-sae203](https://github.com/juanluck/lampDocker)
+[docker-sae203](https://github.com/VorTekS1/SAE_2.03)
 
