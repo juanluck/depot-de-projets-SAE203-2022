@@ -1,25 +1,22 @@
-# Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe)_
+# Projet SAE 2.03 Equipe 7
 
-## Titre du projet
-_(Le titre doit être court et descriptif)_
+## Vidéo à la demande
 
-- Installation d'un service Apache + MariaDB + PHP avec docker
+- Installation d'un service de vidéo à la demande avec nginx
 
 ## Membres de l'équipe
 _(**Format :** Demi-groupe - NOM Prénom)_
 
-- E2 - JIMÉNEZ Juanlu
-- E2 - COLIN Jean-Yves
-- E2 - DUFLO Hugues
+- D1 - BELMOKHTAR Ilian
+- D1 - DEMIR Ozan
+- D1 - DERRIEN Mathys
+- D1 - COUSIN Alban
 
 ## Liens vers le site web du projet
-_(Le liens doit être ```https://<votre-utilisateur-github>.github.io/docker-sae203/```)_
 
-[docker-sae203](https://juanluck.github.io/lampDocker/)
+[docker-sae203](https://alban1204.github.io/docker-sae203/)
 
 ## Liens vers le dépôt github du projet
-_(Le liens doit être ```https://github.com/<votre-utilisateur-github>/docker-sae203/```)_
 
-[docker-sae203](https://github.com/juanluck/lampDocker)
+[docker-sae203](https://github.com/Alban1204/docker-sae203.git)
 
