@@ -1,25 +1,20 @@
-# Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe)_
+# Projet SAE 2.03 Equipe 2
 
-## Titre du projet
-_(Le titre doit être court et descriptif)_
+## Site de vidéo à la demande
 
-- Installation d'un service Apache + MariaDB + PHP avec docker
+- Installation d'un service de vidéo à la demande avec docker
 
 ## Membres de l'équipe
-_(**Format :** Demi-groupe - NOM Prénom)_
 
-- E2 - JIMÉNEZ Juanlu
-- E2 - COLIN Jean-Yves
-- E2 - DUFLO Hugues
+- D2 - HAUET Romain
+- D1 - LE CLEACH Louis
+- D2 - UHL Matthew
 
 ## Liens vers le site web du projet
-_(Le liens doit être ```https://<votre-utilisateur-github>.github.io/docker-sae203/```)_
 
-[docker-sae203](https://juanluck.github.io/lampDocker/)
+[docker-sae203]https://romainhauet.github.io/docker-sae203/
 
 ## Liens vers le dépôt github du projet
-_(Le liens doit être ```https://github.com/<votre-utilisateur-github>/docker-sae203/```)_
 
-[docker-sae203](https://github.com/juanluck/lampDocker)
+[docker-sae203]https://github.com/RomainHauet/docker-sae203.git
 
