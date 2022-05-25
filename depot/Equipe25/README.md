@@ -1,25 +1,24 @@
-# Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe)_
+# Projet SAE 2.03 Equipe 25
+
 
 ## Titre du projet
-_(Le titre doit être court et descriptif)_
 
-- Installation d'un service Apache + MariaDB + PHP avec docker
+Forum de discution Libre
+
+- Installation d'un Forum de discussion libre via un serveur LAMP (Linux + Apache + MariaDB + PHP) avec docker
+
 
 ## Membres de l'équipe
-_(**Format :** Demi-groupe - NOM Prénom)_
+- A1 - BIZET  Florian
+- A1 - GROUT  Ruben
+- A2 - ROBART Floris
 
-- E2 - JIMÉNEZ Juanlu
-- E2 - COLIN Jean-Yves
-- E2 - DUFLO Hugues
 
 ## Liens vers le site web du projet
-_(Le liens doit être ```https://<votre-utilisateur-github>.github.io/docker-sae203/```)_
 
-[docker-sae203](https://juanluck.github.io/lampDocker/)
+[docker-sae203](https://florobart.github.io/docker-sae203/)
+
 
 ## Liens vers le dépôt github du projet
-_(Le liens doit être ```https://github.com/<votre-utilisateur-github>/docker-sae203/```)_
 
-[docker-sae203](https://github.com/juanluck/lampDocker)
-
+[docker-sae203](https://github.com/FloRobart/docker-sae203/)
