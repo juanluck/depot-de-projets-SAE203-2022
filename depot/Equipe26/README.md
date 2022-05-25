@@ -1,3 +1,4 @@
+<<<<<<< HEAD:depot/Equipe26/README.md
 # Projet SAE 2.03 Equipe 26
 
 
