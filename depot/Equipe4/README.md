@@ -2,7 +2,7 @@
 
 ## Serveur pour la vidéo à la demande
 
-- Installation d'un service nGinx avec docker
+- Installation d'un service nginx avec docker
 
 ## Membres de l'équipe
 - D2 - LEBER    Aymeric
