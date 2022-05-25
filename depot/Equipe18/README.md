@@ -13,12 +13,12 @@
 - B1 - DARDANNE Antoine
 
 ## Liens vers le site web du projet
+
 https://raptoruxs.github.io/docker-sae203/
 
-[docker-sae203](https://raptoruxs.github.io/docker-sae203/)
 
 ## Liens vers le dépôt github du projet
+
 https://github.com/Raptoruxs/docker-sae203
 
-[docker-sae203](https://github.com/Raptoruxs/docker-sae203)
 
